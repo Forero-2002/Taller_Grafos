@@ -1,1 +1,1 @@
-Taller Grafos realziado por el monitor "Octubre 16"
+Taller Grafos actividad solicitada por el monitor "Octubre 16"
